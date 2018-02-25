@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "102142894149",
-    "firebase_url": "https://eatitapp-86a9d.firebaseio.com",
-    "project_id": "eatitapp-86a9d",
-    "storage_bucket": "eatitapp-86a9d.appspot.com"
+    "project_number": "951163480817",
+    "firebase_url": "https://androideatit-d95fd.firebaseio.com",
+    "project_id": "androideatit-d95fd",
+    "storage_bucket": "androideatit-d95fd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:102142894149:android:513571b3e44da753",
+        "mobilesdk_app_id": "1:951163480817:android:513571b3e44da753",
         "android_client_info": {
           "package_name": "com.example.supuni.eatitapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "102142894149-nvmq9apvrjsodfajn27jfnf7gllogafk.apps.googleusercontent.com",
+          "client_id": "951163480817-5dolg7hlq9f406acsthfihmjdi0m4ndc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmFPxPJKRLrx2jxY8opFpwtQssYtLbH0c"
+          "current_key": "AIzaSyAJ9FYUQr4sWvjCSpaXmDx46VzKHfKvWJ8"
         }
       ],
       "services": {
